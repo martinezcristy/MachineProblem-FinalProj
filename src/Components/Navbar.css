@@ -1,0 +1,10 @@
+.Navbar {
+    font-family: monospace;
+    
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+  color: rgb(196, 173, 84) !important;
+}
+

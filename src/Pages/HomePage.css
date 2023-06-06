@@ -1,0 +1,24 @@
+.backgroundImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 92vh;
+  width: 100%;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20220523/pngtree-abstract-background-black-shiny-curved-shape-with-gold-threads-lines-luxury-image_1389840.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.HomePage {
+  color: rgb(196, 173, 84);
+  font-family: monospace;
+  line-height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 950px;
+  height: 100px;
+  text-align: center;
+}
